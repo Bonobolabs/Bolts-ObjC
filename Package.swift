@@ -22,7 +22,6 @@ let package = Package(
             name: "Bolts",
             dependencies: [],
             path: "Bolts/Common",
-            exclude: ["Bolts.h", "Bolts.m"],
             publicHeadersPath: ""),
         .testTarget(
             name: "BoltsTests",
