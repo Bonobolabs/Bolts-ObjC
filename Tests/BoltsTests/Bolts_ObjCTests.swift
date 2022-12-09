@@ -1,5 +1,5 @@
 import XCTest
-@testable import Bolts_ObjC
+@testable import Bolts
 
 final class Bolts_ObjCTests: XCTestCase {
     func testExample() throws {
